@@ -2,6 +2,8 @@
 
 All events related to the Documentation Academy can be found in the [Documentation events calendar](https://calendar.google.com/calendar/ical/c_fa68c19aa0cf8aa5ecd73266f6c4d9e94a52053c875f36fd7cc054439b923f33%40group.calendar.google.com/public/basic.ics).
 
+(community-hour)=
+
 ## Community Hour
 
 **We host a [Community Hour](https://discourse.ubuntu.com/t/community-hour/42771) every week on a Friday, 16:00 UTC.**
