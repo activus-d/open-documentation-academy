@@ -18,7 +18,7 @@ This presentation was developed with valuable input and feedback from:
 
 ---
 
-According to Artem, a new project can either be an existing project you are new to or a new project still in its early stages of development. Most of the time, you will work on existing projects since it's rare to find a project without features, codebases, READMEs, or design documents.
+A new project can either be an existing project you are new to or a new project still in its early stages of development. Most of the time, you will work on existing projects since it's rare to find a project without features, codebases, READMEs, or design documents.
 
 ## General principles to keep in mind
 
