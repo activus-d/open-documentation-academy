@@ -48,6 +48,5 @@ This section is currently under development. If you'd like to contribute, please
 :maxdepth: 2
 
 Reference <reference/index>
-Explanation <explanation/index>
 
 ```

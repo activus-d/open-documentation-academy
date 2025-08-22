@@ -24,19 +24,21 @@ A new project can either be an existing project you are new to or a new project 
 
 Regardless of whether you join an existing project or help build one from scratch, certain principles can guide your documentation work from day one. Following them early helps you work efficiently, avoid friction, and maintain scalable documentation.
 
-### keep everything simple
+### Keep everything simple
 
 It's important to keep everything simple at the start. Your processes, technologies, and workflows should be as seamless as possible. This is because any wrong style choices, incorrect technology, or cumbersome information architecture may cause problems later.
 
-Avoid excessive advanced planning. You don't need to write a complex style guide or grand website architecture plans. This takes too much time away from immediate needs.
+Avoid excessive advanced planning. You don't need to write a complex style guide or create grand website architecture plans. This takes too much time away from immediate needs.
+
+Eliminate writing styles, markup formats, and technical decisions that make you dread creating content. Remove fragile structures that break with every change and avoid processes that require excessive effort to build or deploy. Tackle anything that costs too much to maintain before it consumes your time and energy.
 
 Also, you don't need to create much content early on. It's natural for your documentation to develop in small increments, similar to your codebase or knowledge base.
 
 ### Address loose ends early
 
-Any growth in the project will amplify even the smallest issues, so take action to address them early. Reconsider your drafting, editing, and writing processes if they are bad. Maintain processes that scale and remove any tools or workflows that make your work difficult.
+Any growth in the project will amplify even the smallest issues, so take action to address them early. If your drafting, editing, and writing processes make your work difficult, reconsider them. Additionally, only maintain processes and tools that can scale.
 
-People often drop links, messages, or notes on wikis. This information accumulates quickly, so you must build a reliable and robust pipeline to address the backlog.
+You must keep track of any issues or tasks that people raise. People often drop links, messages, or notes on wikis to notify you, and this information accumulates quickly. So you must build a reliable and robust pipeline to address your backlog using the task management tool of your choice.
 
 Also, consider how easily you can reverse decisions. For example, anchoring references to specific documents instead of using relative links may create problems later. This is because restructuring the website would require manual link updates or complex regular expressions.
 
@@ -74,15 +76,7 @@ You can start by describing what already exists and prioritizing your content ma
 
 Operate from a clear content map to navigate unfamiliar territory and guide discussions, planning, and writing. Start by publishing what you already know, then use future updates to expand coverage. Alternate between writing and refactoring in distinct phases to preserve focus and maintain quality.
 
-### Address legacy and technical debt
-
-Ruthlessly contain the impact of legacy issues from the start of a project. Use a prioritized list of problems from your content audit and eliminate bad processes as soon as you discover them.
-
-Eliminate writing styles, markup formats, and technical decisions that make you dread creating content. Remove fragile structures that break with every change and avoid processes that require excessive effort to build or deploy. Tackle anything that costs too much to maintain before it consumes your time and energy.
-
-Similar to cleaning code, approach cleanups in manageable sections. Refactor just enough to create space for new content. Decide whether to salvage existing content or scrap it entirely based on the long-term maintenance cost.
-
-## Resources and further reading
+## Further reading
 
 * [Docs for Developers](https://docsfordevelopers.com/)
 * [Articles by the Nielsen Norman Group](https://www.nngroup.com/)

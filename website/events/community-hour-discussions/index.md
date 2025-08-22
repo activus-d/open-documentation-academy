@@ -1,3 +1,6 @@
+
+(community-hour-discussions-and-presentations)=
+
 # Community Hour discussions and presentations
 
 CODA's {ref}`Community Hour <community-hour>` offers valuable presentations and discussions on documentation topics. These topics provide practical insights and expert knowledge to help improve your documentation skills.
